@@ -46,7 +46,7 @@ namespace WindowsFormsControlLibrary1
 
         public enum Shape { Rectangle, Ellipse}
 
-        public Shape FillShpae {get;set;}
+        public Shape FillShpae {get; set;}
 
         protected override void OnPaint(PaintEventArgs e)
         {
